@@ -5,4 +5,4 @@ apt update && apt upgrade
  pkg install python3 
  git clone https://github.com/Hacker1hassan/hacking-games.git 
  cd hacking-games 
- python3 hacking-games.py
+ python3 brute.py
